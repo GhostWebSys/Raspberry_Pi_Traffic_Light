@@ -1,6 +1,5 @@
 ## Introduce
-* #### Raspberry Pi Traffic Light.
-* #### I made a traffic light using Raspberry Pi. (korea version)
+* #### Made a traffic light using Raspberry Pi 3B+. (korea traffic light)
 * #### [Demo Video (Youtube)](https://youtu.be/HMiMGl0nqik)
 [<p align="center"><img src="https://img.youtube.com/vi/HMiMGl0nqik/maxresdefault.jpg" width="60%"></p>](https://youtu.be/HMiMGl0nqik)
 
